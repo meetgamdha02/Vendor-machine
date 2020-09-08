@@ -1,0 +1,62 @@
+Are You a purchaser ?  Press : 1 
+Are You a seller Press  : 2      
+1
+Enter Coin 
+4
+Invalid coins  //only 1,5,10,25 are allowed.
+Do you want to continue Press 1
+Do you want to switch Press 2  
+Do You want to exit Press 3    
+1
+Enter Coin 
+5
+Enter number
+5
+You have bought Coke
+Coke 9
+Pepsi 10
+Soda 10
+Do you want to switch Press : 1
+Do You want to continue Press  : 2
+Do You Want Refund Press : 3
+Dou You want to exit Press : 4
+3
+We have returned your 25
+Coke 10
+Pepsi 10
+Soda 10  // incremented coke
+Do You want to continue Press :1
+Do You want to switch PRess : 2
+Do You want to exit PRess : 3
+1
+Enter Coin 
+6
+Invalid coins
+Do you want to continue Press 1
+Do you want to switch Press 2
+Do You want to exit Press 3
+1
+Enter Coin 
+5
+Enter number
+6
+You have bought Coke
+Coke 9
+Pepsi 10
+Soda 10
+Do you want to switch Press : 1
+Do You want to continue Press  : 2
+Do You Want Refund Press : 3
+Dou You want to exit Press : 4
+1
+You are supplier 
+Enter input
+1
+Coke 10
+Pepsi 10
+Soda 10
+Successfully Reseted
+Do you want to switch Press : 1
+Do you want to Exit? Press : 2
+2
+Have a nice Day!!
